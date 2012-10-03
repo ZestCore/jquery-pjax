@@ -1,4 +1,4 @@
-## pushState + ajax = pjax
+## pushState + ajax = pjax 
 
             .--.
            /    \
